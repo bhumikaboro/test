@@ -1,0 +1,24 @@
+body {
+  user-select: none;
+}       .allow-copy {
+  user-select: text;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}  
+
+
+
+.body {
+  user-select: none;
+}       .allow-copy {
+  user-select: text;
+}  
+
+
+.footer1000 {
+
+    text-decoration: none;
+}
+
+
